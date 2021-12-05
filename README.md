@@ -1,3 +1,3 @@
-# Butterfly
+# Catapilla
 Butterfly Project
-This is a coolection of images that I consider breathtaking
+This are the stages that butterfly goes through
